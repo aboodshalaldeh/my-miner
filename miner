@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-x64.tar.gz
+tar -xvf xmrig-6.21.0-linux-x64.tar.gz
+mv xmrig-6.21.0 xmrig_folder
